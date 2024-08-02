@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vid6react/static/css/main.996d285f.css",
+    "main.js": "/vid6react/static/js/main.92892d95.js",
+    "static/js/453.ed3810f9.chunk.js": "/vid6react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/vid6react/index.html",
+    "main.996d285f.css.map": "/vid6react/static/css/main.996d285f.css.map",
+    "main.92892d95.js.map": "/vid6react/static/js/main.92892d95.js.map",
+    "453.ed3810f9.chunk.js.map": "/vid6react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996d285f.css",
+    "static/js/main.92892d95.js"
+  ]
+}
